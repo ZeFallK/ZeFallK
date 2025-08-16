@@ -46,7 +46,7 @@
 
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AlphaDiallo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldiallo26/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alphadiollo2611@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aldiallo26@outlook.fr)  
 
 ---
 
